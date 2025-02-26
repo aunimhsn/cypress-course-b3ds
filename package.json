@@ -1,0 +1,23 @@
+{
+  "name": "cypress-course-b3ds",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aunimhsn/cypress-course-b3ds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aunimhsn/cypress-course-b3ds/issues"
+  },
+  "homepage": "https://github.com/aunimhsn/cypress-course-b3ds#readme",
+  "description": "",
+  "dependencies": {
+    "cypress": "^14.0.3"
+  }
+}
